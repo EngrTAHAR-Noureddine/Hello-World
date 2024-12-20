@@ -11,7 +11,7 @@ class HelloWorldViewController: UIViewController {
         print("HelloWorldViewController : viewDidLoad")
         super.viewDidLoad()
         
-        self.title = "Hello World"
+        self.title = "Hello World Project"
     
         self.view.backgroundColor = .systemCyan
         
